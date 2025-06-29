@@ -264,12 +264,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 For support, please contact:
-- **Developer**: Mugesh
-- **GitHub**: [https://github.com/mugesh](https://github.com/mugesh)
+- **Developer**: Mugesh Kannan S
+- **Portfolio**: https://mugeshkannan.vercel.app
+- **GitHub**: https://github.com/MUGESHKANNANS
+- **Phone** : +91 9789210135
 - **Issues**: Use GitHub Issues for bug reports and feature requests
 
 ---
 
-**Built with ❤️ by Mugesh**
-
-© 2024 TaskFlow. All rights reserved.
+**Built with ❤️ by Mugesh Kannan S**
