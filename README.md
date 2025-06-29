@@ -84,7 +84,7 @@ A modern, responsive task management application built with React, TypeScript, a
 
 ### Authentication
 - **Secure Login**: Email/password authentication
-- **Social Login**: Support for GitHub and Google OAuth
+- **Social Login**: Support for GitHub and Google and Facebook OAuth
 - **Session Management**: Automatic token refresh
 - **Password Reset**: Secure password recovery flow
 
