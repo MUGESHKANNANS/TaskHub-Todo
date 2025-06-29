@@ -6,6 +6,11 @@
 
 A modern, responsive task management application built with React, TypeScript, and Supabase. TaskFlow provides comprehensive task organization, collaboration features, and real-time notifications.
 
+
+
+![Flow diagram - visual selection (1)](https://github.com/user-attachments/assets/348f3c97-dfed-4bf4-bc5c-cf267244a44f)
+
+
 ## 🚀 Features
 
 ### Core Functionality
